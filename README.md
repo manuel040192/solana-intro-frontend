@@ -4,7 +4,7 @@ https://solana-intro-frontend-manuel040192.vercel.app/
 
 Información destacada:
 
-- Adición de const [accountExec, setAccountExec] = useState(false); y de <p>{`Is it executable? ${accountExec ? 'Yep.' : 'Nope.'}`}</p> en el archivo pages/index.tsx.
+- Adición de los códigos const [accountExec, setAccountExec] = useState(false); y de <p>{`Is it executable? ${accountExec ? 'Yep.' : 'Nope.'}`}</p> en el archivo pages/index.tsx.
 
 - Especificación del tipo de dato de address en address: string en los archivos pages/index.tsx y components/AddressForm.tsx.
 
@@ -12,7 +12,7 @@ Información destacada:
 
 Highlighted information:
 
-- Addition of const [accountExec, setAccountExec] = useState(false); y de <p>{`Is it executable? ${accountExec ? 'Yep.' : 'Nope.'}`}</p> in the file pages/index.tsx.
+- Addition of the codes const [accountExec, setAccountExec] = useState(false); y de <p>{`Is it executable? ${accountExec ? 'Yep.' : 'Nope.'}`}</p> in the file pages/index.tsx.
 
 - Specification of the data type of address in address: string in the files pages/index.tsx and components/AddressForm.tsx.
 
